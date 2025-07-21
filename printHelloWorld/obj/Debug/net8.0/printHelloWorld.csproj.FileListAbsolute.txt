@@ -1,0 +1,15 @@
+/workspaces/csharp_program/printHelloWorld/bin/Debug/net8.0/printHelloWorld
+/workspaces/csharp_program/printHelloWorld/bin/Debug/net8.0/printHelloWorld.deps.json
+/workspaces/csharp_program/printHelloWorld/bin/Debug/net8.0/printHelloWorld.runtimeconfig.json
+/workspaces/csharp_program/printHelloWorld/bin/Debug/net8.0/printHelloWorld.dll
+/workspaces/csharp_program/printHelloWorld/bin/Debug/net8.0/printHelloWorld.pdb
+/workspaces/csharp_program/printHelloWorld/obj/Debug/net8.0/printHelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/csharp_program/printHelloWorld/obj/Debug/net8.0/printHelloWorld.AssemblyInfoInputs.cache
+/workspaces/csharp_program/printHelloWorld/obj/Debug/net8.0/printHelloWorld.AssemblyInfo.cs
+/workspaces/csharp_program/printHelloWorld/obj/Debug/net8.0/printHelloWorld.csproj.CoreCompileInputs.cache
+/workspaces/csharp_program/printHelloWorld/obj/Debug/net8.0/printHelloWorld.sourcelink.json
+/workspaces/csharp_program/printHelloWorld/obj/Debug/net8.0/printHelloWorld.dll
+/workspaces/csharp_program/printHelloWorld/obj/Debug/net8.0/refint/printHelloWorld.dll
+/workspaces/csharp_program/printHelloWorld/obj/Debug/net8.0/printHelloWorld.pdb
+/workspaces/csharp_program/printHelloWorld/obj/Debug/net8.0/printHelloWorld.genruntimeconfig.cache
+/workspaces/csharp_program/printHelloWorld/obj/Debug/net8.0/ref/printHelloWorld.dll
