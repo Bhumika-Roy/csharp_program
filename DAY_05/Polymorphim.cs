@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-namespace oops.poly
+/*namespace oops.poly
 {
 
     class InfoPrinter
@@ -39,4 +39,4 @@ namespace oops.poly
         }
 
     }
-}
+}*/

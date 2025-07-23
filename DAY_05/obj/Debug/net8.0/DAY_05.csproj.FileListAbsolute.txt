@@ -1,0 +1,15 @@
+/workspaces/csharp_program/DAY_05/bin/Debug/net8.0/DAY_05
+/workspaces/csharp_program/DAY_05/bin/Debug/net8.0/DAY_05.deps.json
+/workspaces/csharp_program/DAY_05/bin/Debug/net8.0/DAY_05.runtimeconfig.json
+/workspaces/csharp_program/DAY_05/bin/Debug/net8.0/DAY_05.dll
+/workspaces/csharp_program/DAY_05/bin/Debug/net8.0/DAY_05.pdb
+/workspaces/csharp_program/DAY_05/obj/Debug/net8.0/DAY_05.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/csharp_program/DAY_05/obj/Debug/net8.0/DAY_05.AssemblyInfoInputs.cache
+/workspaces/csharp_program/DAY_05/obj/Debug/net8.0/DAY_05.AssemblyInfo.cs
+/workspaces/csharp_program/DAY_05/obj/Debug/net8.0/DAY_05.csproj.CoreCompileInputs.cache
+/workspaces/csharp_program/DAY_05/obj/Debug/net8.0/DAY_05.sourcelink.json
+/workspaces/csharp_program/DAY_05/obj/Debug/net8.0/DAY_05.dll
+/workspaces/csharp_program/DAY_05/obj/Debug/net8.0/refint/DAY_05.dll
+/workspaces/csharp_program/DAY_05/obj/Debug/net8.0/DAY_05.pdb
+/workspaces/csharp_program/DAY_05/obj/Debug/net8.0/DAY_05.genruntimeconfig.cache
+/workspaces/csharp_program/DAY_05/obj/Debug/net8.0/ref/DAY_05.dll
